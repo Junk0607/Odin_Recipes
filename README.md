@@ -1,1 +1,2 @@
-# Odin_Recipes
+# Odin_Recipes  
+Simple project, listing recipes. 
